@@ -16,10 +16,9 @@ The capstone connected adversary behavior to enterprise exposure, mapped the att
 
 ## Portfolio Artifacts
 
-* 📄 [Case Study (PDF)](./[Portfolio_Case_Study.pdf](https://github.com/dredarsenic/ransomware-incident-response-capstone/blob/main/Case_Study.pdf)) 
-* 📘 [Original Capstone Report (PDF)](./Original_Report.pdf) — detailed team report, references, ATT&CK mapping, and 12-month roadmap
-* 📊 [Original Executive Presentation (PPTX)](./Original_Presentation.pptx) — presentation used during the capstone defense
-
+* 📄 [Case Study](https://github.com/dredarsenic/ransomware-incident-response-capstone/blob/main/Case_Study.pdf)
+* 📘 [Capstone Report](https://github.com/dredarsenic/ransomware-incident-response-capstone/blob/main/Squad_4_OmniRoute_Report.pdf)
+* 📊 [Executive Presentation](https://github.com/dredarsenic/ransomware-incident-response-capstone/blob/main/Squad_4_OmniRoute_Deck.pptx)
 ---
 
 ## Scenario
